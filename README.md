@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Louis !</h1>
 <h3 align="center">Un développeur passionné Français !</h3>
 
-- 🔭 Je travaille actuellement sur **Let's Job !**
+- 🔭 Je travaille actuellement sur ** Co'B !**
 
-- 🌱 J'apprends actuellement **Flutter (Dart)**
+- 🌱 J'apprends actuellement **Framework Odoo**
 
-- 📫 Comment me contacter : **louis.schinkler@gmail.com**
+- 📫 Comment me contacter : **louis.schinkler@scarwxk.tech**
 
 - 📄 Si vous voulez en savoir plus : [https://www.linkedin.com/in/louis-schinkler-4115a21b9/](https://www.linkedin.com/in/louis-schinkler-4115a21b9/)
 
