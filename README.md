@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Louis !</h1>
 <h3 align="center">Un développeur passionné Français !</h3>
 
-- 🔭 Je travaille actuellement sur ** Co'B !**
+- 🔭 Je travaille actuellement sur ** Co'B ! **
 
 - 🌱 J'apprends actuellement **Framework Odoo**
 
