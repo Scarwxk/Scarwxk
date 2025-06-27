@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **Framework Odoo**
 
-- 📫 Comment me contacter : **louis.schinkler@scarwxk.tech**
+- 📫 Comment me contacter : **contact@schinkler.pro**
 
 - 📄 Si vous voulez en savoir plus : [https://www.linkedin.com/in/louis-schinkler-4115a21b9/](https://www.linkedin.com/in/louis-schinkler-4115a21b9/)
 
